@@ -1,7 +1,5 @@
 # 따따 : 당신의 발자취 일기
 <img width="2048" height="1381" alt="image" src="https://github.com/user-attachments/assets/28ccabee-2d62-4fc8-8761-00abdca9b045" />
-<br/><br/>
-<img width="2048" height="1280" alt="image" src="https://github.com/user-attachments/assets/35b426ee-7f95-4d8e-a552-10173f08b947" />
 
 
 ## Introduction
